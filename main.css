@@ -9,11 +9,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-steel {
-  background-color: #5f788a;
+  background-color: #a99dd1;
 }
 
 .site-header .navbar-nav .nav-link {
-  color: #cbd5db;
+  color: #d2c1e8;
 }
 
 .site-header .navbar-nav .nav-link:hover {
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a.article-title:hover {
-  color: #428bca;
+  color: #9c99e8;
   text-decoration: none;
 }
 
